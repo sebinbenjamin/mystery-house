@@ -1,13 +1,5 @@
 # Mystery House Exercise
 
-Welcome to the Mystery House! Your mission is to explore every room in the house, find hidden items, and discover a secret code. Use the Linux commands provided to navigate through directories, create files, and solve the mystery.
-
-
-Here’s how you can structure the improved instructions in a `README.md` file for your GitHub repository:
-
-
-# Mystery House Exercise
-
 Welcome to the Mystery House! Your mission is to explore every room in the house, find hidden items, and uncover a secret code. Use the Linux commands provided to navigate through directories, create files, and solve the mystery.
 
 ## Getting Started
